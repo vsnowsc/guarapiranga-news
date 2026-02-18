@@ -5,7 +5,7 @@ export default function App() {
 				{/* Header */}
 				<header className="space-y-2">
 					<h1 className="text-4xl md:text-5xl tracking-tight">
-						🚨 De Olho no Trânsito - Av. Guarapiranga News 📢
+						🚨 GUARAPIRANGA NEWS 📢
 					</h1>
 					<hr className="h-px bg-foreground/10 w-24 border-0" />
 				</header>
