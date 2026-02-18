@@ -117,7 +117,7 @@ export default function App() {
 						</p>
 						<div className="mt-8">
 							<a
-								href="https://chat.whatsapp.com/Fy4whBt494z2igOtFDrGnT?mode=gi_t"
+								href="https://chat.whatsapp.com/IbhhzBJCIVB3oXIgg4q1R7?mode=gi_t"
 								target="_blank"
 								rel="noopener noreferrer"
 								className="inline-flex items-center gap-2 px-6 py-3 bg-[#25D366] hover:bg-[#20ba5a] text-white font-bold rounded-lg transition-colors duration-200"
